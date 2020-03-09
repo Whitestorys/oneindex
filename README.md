@@ -22,11 +22,10 @@ rewrite ^/(.*)$ /index.php?/$1 last;
 }
 ```
 
-## 设置修改
-
-1. 网站主题 选择 nexmoe
-2. 缓存类型 选择 filecache
-
 ## 预览图
 
 ![](http://file.layne666.cn/img/20191125233913.png)
+
+![](http://file.layne666.cn/img/20200211210637.png)
+
+![](http://file.layne666.cn/img/20200211210644.png)
